@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hey 👋, I'm Priya Mehta</h1>
 <h3 align="center">Masters Student at Northeastern Unviersity</h3>
 
