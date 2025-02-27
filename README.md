@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **CS Fundamentals, Web Developement, Data Science**
 
-- 📫 How to reach me **mehta.priya3105@gmail.com**
+- 📫 How to reach me **mehtapriya3105@gmail.com**
 
 - 📄 Know about my experiences [..](..)
 
